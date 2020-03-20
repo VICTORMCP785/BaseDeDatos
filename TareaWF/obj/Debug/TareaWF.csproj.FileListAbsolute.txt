@@ -1,0 +1,10 @@
+C:\Users\Victor Cota\source\repos\TareaWF\TareaWF\bin\Debug\TareaWF.exe.config
+C:\Users\Victor Cota\source\repos\TareaWF\TareaWF\bin\Debug\TareaWF.exe
+C:\Users\Victor Cota\source\repos\TareaWF\TareaWF\bin\Debug\TareaWF.pdb
+C:\Users\Victor Cota\source\repos\TareaWF\TareaWF\obj\Debug\TareaWF.csprojAssemblyReference.cache
+C:\Users\Victor Cota\source\repos\TareaWF\TareaWF\obj\Debug\TareaWF.Form1.resources
+C:\Users\Victor Cota\source\repos\TareaWF\TareaWF\obj\Debug\TareaWF.Properties.Resources.resources
+C:\Users\Victor Cota\source\repos\TareaWF\TareaWF\obj\Debug\TareaWF.csproj.GenerateResource.cache
+C:\Users\Victor Cota\source\repos\TareaWF\TareaWF\obj\Debug\TareaWF.csproj.CoreCompileInputs.cache
+C:\Users\Victor Cota\source\repos\TareaWF\TareaWF\obj\Debug\TareaWF.exe
+C:\Users\Victor Cota\source\repos\TareaWF\TareaWF\obj\Debug\TareaWF.pdb
